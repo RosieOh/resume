@@ -25,5 +25,9 @@
 - 한남대학교 린튼글로벌스쿨 글로벌비즈니스전공 / 융합학부 빅데이터전공
 
 ## Contact
+📱 카카오톡 ID : sirious920
 
+📱 Email : dhxogns920@naver.com
+
+---
 
