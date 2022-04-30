@@ -7,7 +7,6 @@
 
 ## Introduce![image](https://user-images.githubusercontent.com/104690434/166119984-ead49048-f357-42c1-957a-7d5ef1903e04.png)
 ---
-
 - 이름 : 오태훈(Taehun Oh)
 - 나이 : 1998년 생 (만 23세)
 - 취미 : 공공데이터분석, 드라이브
