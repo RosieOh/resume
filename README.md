@@ -45,3 +45,15 @@
 
 - HTML5, CSS3, JS ES6++
 - React
+
+
+
+
+
+---
+
+- 👋 Hi, I’m @RosieOh
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
