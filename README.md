@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/[sirloin._._]-[1877F2]?style=flat-square&logo=[4. 로고명(아이콘명)]&logoColor=white"/
+<img src="https://img.shields.io/badge/[sirloin._._]-[1877F2]?style=flat-square&logo=[4. 로고명(아이콘명)]&logoColor=white"/>
 
 <img width="200" alt="image" src="./image/image.jpeg"> 
 
