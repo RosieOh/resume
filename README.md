@@ -13,7 +13,7 @@
 - 나이 : 1998년 생 (만 23세)
 - 취미 : 공공데이터분석, 드라이브
 - 블로그()
-- Github(https://github.com/RosieOh)
+- Github [RosieOh - overview](https://github.com/RosieOh)
 
 ---
 
