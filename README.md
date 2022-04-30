@@ -33,3 +33,15 @@
 
 ---
 
+## Stacks
+### DataScience
+- Python (Pandas, Numpy, Matplotlib, Seaborn, Bokch, Scikit-learn, Tensorflow, Keras, Pytorch, Pydicom)
+- R
+- SQL
+- Hadoop
+
+
+### Front_end
+
+- HTML5, CSS3, JS ES6++
+- React
