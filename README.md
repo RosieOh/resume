@@ -33,7 +33,7 @@
 
 ---
 
-## Stacks
+## 💻 Stacks
 ### DataScience
 - Python (Pandas, Numpy, Matplotlib, Seaborn, Bokch, Scikit-learn, Tensorflow, Keras, Pytorch, Pydicom)
 - R
