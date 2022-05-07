@@ -65,6 +65,24 @@
 
 ---
 
+
+## Project
+
+### [응급의료 병상 부족 문제 해결방안 연구]
+- 기간 : 2021.10 ~ 2021.12
+- 소개 : COVID-19 상황으로 인한 응급실 병상 부족 문제 해결 방안 제시
+- 역할 : 데이터정제, 클렌징, 시각화, 정책 제안
+- 사용한 Skill, 지식 : R, Python, Numpy, Pandas, Bokeh
+
+### [MediRing]
+- 기간 : 2022.03 ~ 현재
+- 소개 : 빅데이터 분석 기반 영양제 추천 시스템 플랫폼
+- 역할 : 영양제 빅데이터 분석 및 전문가 추천 시스템 알고리즘 설계
+- 사용한 Skill. 지식 : Python, Slack, HTML5+CSS3, Django, React
+
+
+---
+
 - 👋 Hi, I’m @RosieOh
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
