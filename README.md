@@ -55,6 +55,13 @@
 - `Flask`
 - `JSP`
 
+### Process
+
+- 모니터링 - `Google Analytics`
+- 커뮤니티 - `Slack`
+- 이슈관리 - `Github`
+- 버전관리 - `Git` 
+
 
 ---
 
