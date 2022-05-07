@@ -35,23 +35,25 @@
 
 ## 💻 Stacks
 ### DataScience
-- Python (Pandas, Numpy, Matplotlib, Seaborn, Bokch, Scikit-learn, Tensorflow, Keras, Pytorch, Pydicom)
-- R
-- SQL
-- Hadoop
+- `Python`
+- `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Bokeh`
+- `Scikit-learn`, `Tensorflow`, `Keras`, `PyTorch`, `Pydicom`
+- `R`
+- `SQL`
+- `Hadoop`
 
 
 ### Front_end
 
-- HTML5, CSS3, JS ES6++
-- React
+- `HTML5`, `CSS3`, `JavaScript ES6++`
+- `React`
 
 
 ### Back_end
 
-- Django
-- Flask
-- JSP
+- `Django`
+- `Flask`
+- `JSP`
 
 
 ---
